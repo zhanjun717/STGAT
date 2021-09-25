@@ -1,0 +1,10 @@
+env_temp
+hub_speed
+wind_speed
+f_temp
+b_temp
+power
+grid_power
+fb_diff
+fe_diff
+fb_diff
