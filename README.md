@@ -5,3 +5,6 @@ WTD dataset is collected from two abnormal-record wind turbines in a large-scale
 
 ## The number of novel events
 The data are collected lasting for 1 to two years, and time interval of data collection is 10 minutes. According to on-the-spot operation and maintenance (O&M) records from wind farm operators, we divide the dataset into training set and testing set. The quantity and abnormal percentage of these two datasets are shown in the following table. 
+Dataset|Training size|Testing size(Normal/Abnormal)|Dim.|Abnormal proportion
+WT03|24133|28657(14122/15516)|10|54.1%
+WT23|64966|21863(14535/6347)|10|43.7%
