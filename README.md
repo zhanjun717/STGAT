@@ -9,3 +9,6 @@ The data are collected lasting for 1 to two years, and time interval of data col
 |-|-|-|-|-|
 |WT03|24133|28657(14122/15516)|10|54.1%|
 |WT23|64966|21863(14535/6347)|10|43.7%|
+
+## Label method
+On the basis of O&M records of wind farm and visual analysis of data, the data are labelled manually. For instance, according to on-the-spot records, the abnormal data labelled in WT23 dataset on 9, Feb., 2021 are found. Then we visualize the data such as the difference in temperature and distribution, etc. before and after abnormality occurs for three months. Finally the data deviating from normal mode are labelled through observation. 
